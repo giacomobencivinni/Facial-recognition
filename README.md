@@ -38,7 +38,8 @@ e tramite essa proiettiamo i dati sulle prime due componenti principali. L’ana
 
 IIn questo passaggio non ho distinto tra set di addestramento, test e validazione, poichè l’analisi era focalizzata sulla distribuzione dei dati, ma la distinzione sarà cruciale nelle fasi successive
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bcf23990-028a-450d-a5dd-0ae6123bddfb/bde8005e-8c0d-4dfa-9d04-f7a2e678e5ce/image.png)
+![PCA](Progetto_N/image.png)
+
 
 ### Training, validation e test set
 
